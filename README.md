@@ -1,1 +1,12 @@
 # flaskPractice
+- flask有关migrate的问题
+    - [解答链接](https://seven-share.github.io/flaskPractice/flaskMigrateTry/README.md)
+- flask商城
+    - 由慕课网的小程序php后台代码改写而成
+    - 全部是restful api提供数据
+    - 代码质量有待改进
+    - [代码链接](https://seven-share.github.io/flaskPractice/flaskShop/README.md)
+- flask论坛
+    - 阅读flask web开发所写
+    - 功能基本完备，ui有待改进
+    - [代码链接](https://seven-share.github.io/flaskPractice/flask-web/README.md)

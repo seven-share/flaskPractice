@@ -1,0 +1,5 @@
+2018-03-19 13:58:10,317 - WARNING - validation.py - isInt - 10 - here
+2018-03-19 13:58:42,601 - WARNING - validation.py - isInt - 10 - /banner/<id>--notInt
+2018-03-19 15:58:53,632 - WARNING - validation.py - isInt - 10 - /theme--notInt
+2018-03-19 15:59:29,426 - WARNING - validation.py - isInt - 10 - /theme--notInt
+2018-03-23 21:04:36,136 - WARNING - validation.py - mustHave - 34 - /token/user--empty or None
